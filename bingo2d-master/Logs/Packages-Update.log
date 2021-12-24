@@ -22,3 +22,13 @@ The following packages were added:
   com.unity.cinemachine@2.6.3
   com.unity.inputsystem@1.0.2
   com.unity.render-pipelines.universal@10.2.2
+
+=== Sat Nov 27 15:27:10 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ext.nunit@1.0.6
+  com.unity.postprocessing@3.0.3
+  com.unity.xr.legacyinputhelpers@2.1.7

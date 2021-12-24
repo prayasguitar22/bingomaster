@@ -11,6 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 75cee55a6ce9342a7b31c6383fd14712
+  - enabled: 1
+    path: Assets/Scenes/candy.unity
+    guid: a6f86de080813e448ae3bfea8aa7d4e4
+  - enabled: 1
+    path: Assets/Scenes/city.unity
+    guid: dfdb4c91f5164ea46b4055b133ccdfa2
+  - enabled: 1
+    path: Assets/Scenes/themesmenu.unity
+    guid: c1c8b996ff169ac41bcdb05a90a4d5f3
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
       guid: 212152ac84359492791b4402f9b000d3, type: 2}
